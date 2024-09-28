@@ -3,7 +3,10 @@
     padding: 0;
 }
 
-/* dev_B commit */
 body {
     margin: 25px 50px;
+}
+
+p {
+    font-size: 14px;
 }
